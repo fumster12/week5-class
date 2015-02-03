@@ -1,7 +1,7 @@
 import json
 
 class ElectedOfficial:
-  pass
+  
 
 
 def read_congress_data():
